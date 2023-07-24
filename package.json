@@ -1,15 +1,8 @@
 {
-  "name": "telegram-echobot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.61.6"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "telegraf": "^4.4.2"
+    "node-telegram-bot-api": "^0.61.0"
   }
 }
